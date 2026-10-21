@@ -25,3 +25,5 @@ A comprehensive individual Python project analyzing over 125,000 sales records a
 
 ### Note
 The full dataset containing over 125,000 sales records and 284,000 inventory records is too large to host directly on GitHub and the complete data can be sourced from [Google Drive](https://drive.google.com/drive/folders/1FPi99JXOrN5O6WUjUaLalEWPDvEcS0OI?usp=drive_link).
+
+*This project was developed for learning and portfolio purposes.*
