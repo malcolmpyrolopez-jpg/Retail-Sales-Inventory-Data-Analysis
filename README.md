@@ -5,7 +5,7 @@
 ---
 
 ### Summary
-A comprehensive individual Python project analyzing over 125,000 sales records and 284,000 inventory records to uncover product performance trends, sales channel patterns, and inventory optimization strategies.
+My individual Python project analyzing over 125,000 sales records and 284,000 inventory records to uncover product performance trends, sales channel patterns, and inventory optimization strategies.
 
 ---
 
